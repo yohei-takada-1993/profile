@@ -23,13 +23,13 @@ a {
   background-image: url(https://raw.githubusercontent.com/yohei-takada-1993/profile/main/NAT86_eijishinbuntochoko_TP_V.jpg);
   background-size: cover;
   text-align: center;
-  color: #000000;
 }
 
 .top-wrapper h1 {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
+  color: #000000;
 }
 
 .top-wrapper p {
