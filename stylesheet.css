@@ -135,6 +135,8 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  display: inline-block;
+  text-align: left;
 }
 
 
