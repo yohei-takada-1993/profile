@@ -15,7 +15,8 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
-  text-align: center;
+  display: inline-block;
+  text-align: left;
   color: #FFFFFF;
 }
 
@@ -128,8 +129,6 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-  display: inline-block;
-  text-align: left;
 }
 
 
