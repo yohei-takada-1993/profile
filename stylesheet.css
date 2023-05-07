@@ -176,11 +176,11 @@ header {
 .profile-wrapper {
   width: 100px;
   height: 100px;
+  background-image: url(https://raw.githubusercontent.com/yohei-takada-1993/profile/main/%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png);
   border-radius: 50%;
   object-fit: none;
-  object-position:54% 36%;
-  background-image: url(https://raw.githubusercontent.com/yohei-takada-1993/profile/main/%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png);
-}
+  text-align: center;
+  }
 
 .message {
   padding: 15px 40px;
