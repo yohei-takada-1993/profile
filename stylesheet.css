@@ -136,16 +136,9 @@ header {
   padding-bottom: 50px;
   color: #5f5d60;
   text-align: left;
-	display: inline-block;
+　display: inline-block;
 }
 
-.headingb {
-  padding-top: 80px;
-  padding-bottom: 50px;
-  color: #696969;
-  text-align: left;
-	display: inline-block;
-}
 
 .heading h2 {
   font-weight: normal;
