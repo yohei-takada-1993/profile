@@ -174,8 +174,11 @@ header {
 }
 
 .profile-wrapper {
-  width: 300px;
-  height: 250px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: none;
+  object-position:54% 36%;
   background-image: url(https://raw.githubusercontent.com/yohei-takada-1993/profile/main/%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png);
 }
 
